@@ -1,0 +1,15 @@
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\De-01.exe.config
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\De-01.exe
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\De-01.pdb
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\EntityFramework.dll
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\EntityFramework.xml
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.csproj.AssemblyReference.cache
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De_01.frmSinhVien.resources
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De_01.Properties.Resources.resources
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.csproj.GenerateResource.cache
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.csproj.CoreCompileInputs.cache
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.csproj.Up2Date
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.exe
+C:\Users\Phan Ngoc Hien\source\repos\De-01\De-01\obj\Debug\De-01.pdb
